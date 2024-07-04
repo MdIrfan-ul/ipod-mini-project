@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+  margin: 10px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -8,6 +8,7 @@ body {
   display:flex;
   align-items: center;
   justify-content: center;
+  
 }
 
 code {
@@ -26,43 +27,31 @@ code {
   align-items: center;
   justify-content: space-between;
   padding: 20px;
-  -webkit-box-reflect:below 2px linear-gradient(to bottom,rgba(0,0,0,0.3),rgba(0,0,0,0.3))
-}
-
-
-
-
-.button {
-  width: 30px;
-  height: 30px;
-  background-color: #666;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
+  -webkit-box-reflect:below 1px linear-gradient(to bottom,rgba(0,0,0,0.3),rgba(0,0,0,0.3))
 }
 
 .control{
   color: grey;
-  font-weight: 900;
+  /* font-weight: 900; */
   position: absolute;
+  cursor:default;
+  font-size: larger;
 }
 #menu{
-  left:38%;
+  left:35%;
   top:10%;
 }
 #forward{
   right:5%;
-  top:40%;
+  top:43%;
 }
 #forward-pause{
-  right:45%;
-  bottom:10%;
+  right:40%;
+  bottom:8%;
 }
 #backward{
   left:5%;
-  top:40%
+  top:45%
 }
 .circle{
   width: 80px;
@@ -73,3 +62,6 @@ code {
   top:30%;
   right:30%;
 }
+
+
+/* Responsiveness */

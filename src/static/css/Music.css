@@ -1,0 +1,28 @@
+/* music container */
+.music{
+    width: 280px;
+  height: 250px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+/* heading for music */
+h2{
+    margin: 1px;
+}
+
+/* list element */
+
+.music li{
+    padding:10px;
+}
+
+.music #song1{
+    padding: 20px 10px;
+}
+
+.active img{
+width: 30px;
+height: 30px;
+margin-left:20%;
+}

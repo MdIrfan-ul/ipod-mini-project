@@ -1,0 +1,10 @@
+.display{
+    /* background-image: url("../static/AudioTapes.png"); */
+    background-size: cover;
+    background-position: center;
+    width: 280px;
+  height: 250px;
+    display: flex;
+    flex-direction: column;
+    
+}
