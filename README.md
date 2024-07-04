@@ -56,4 +56,4 @@ Play and control music playback using the provided controls.
 Explore different features and enjoy the nostalgic iPod experience!
 
 ## Deployment
-Live URL:-``
+Live URL:- [[Hosted Link](https://mdirfan-ul.github.io/ipod-mini-project/)]
