@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ipod-mini-project/static/css/main.e6743c95.css",
+    "main.js": "/ipod-mini-project/static/js/main.fa66bad5.js",
+    "static/media/AlanWalker-faded.mp3": "/ipod-mini-project/static/media/AlanWalker-faded.372a6c22dfba1a0af07c.mp3",
+    "static/media/Eminem-Venom.mp3": "/ipod-mini-project/static/media/Eminem-Venom.9e94f67c001ad7d90b5b.mp3",
+    "static/media/Marshmello-friends.mp3": "/ipod-mini-project/static/media/Marshmello-friends.3d379e8d3a895ba99645.mp3",
+    "static/media/Marshmello-friends.jpg": "/ipod-mini-project/static/media/Marshmello-friends.c018ae81d5a9eab25d48.jpg",
+    "static/media/Eminem-Venom.jpg": "/ipod-mini-project/static/media/Eminem-Venom.67b689b349970564636b.jpg",
+    "static/media/settingsWallpaper.jpeg": "/ipod-mini-project/static/media/settingsWallpaper.e0158f7b671d8a93c11a.jpeg",
+    "static/media/Ipod-wallpaper.jpeg": "/ipod-mini-project/static/media/Ipod-wallpaper.69c20a7bedb323c922fe.jpeg",
+    "static/media/MusicWallpaper.jpeg": "/ipod-mini-project/static/media/MusicWallpaper.19945c9843edbdc2e488.jpeg",
+    "static/media/Eminem.png": "/ipod-mini-project/static/media/Eminem.aeecbcd624951839034f.png",
+    "static/media/AlanWalker.png": "/ipod-mini-project/static/media/AlanWalker.b52443e16f051f228776.png",
+    "static/media/Marshmello.png": "/ipod-mini-project/static/media/Marshmello.a5bf00d4573aca69da47.png",
+    "static/media/GamesWallpaper.jpeg": "/ipod-mini-project/static/media/GamesWallpaper.725c9f245bab34eb407b.jpeg",
+    "index.html": "/ipod-mini-project/index.html",
+    "main.e6743c95.css.map": "/ipod-mini-project/static/css/main.e6743c95.css.map",
+    "main.fa66bad5.js.map": "/ipod-mini-project/static/js/main.fa66bad5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6743c95.css",
+    "static/js/main.fa66bad5.js"
+  ]
+}
