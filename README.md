@@ -54,3 +54,6 @@ npm start
 Use the touch gestures or click events to navigate menus and interact with the interface.
 Play and control music playback using the provided controls.
 Explore different features and enjoy the nostalgic iPod experience!
+
+## Deployment
+Live URL:-``
