@@ -6,6 +6,8 @@
 
 This project is a mini recreation of an iPod-like interface built using React.js. It incorporates various features and technologies to simulate the classic iPod experience with modern web technologies.
 
+## Deployment
+Live URL:- [[Hosted Link](https://mdirfan-ul.github.io/ipod-mini-project/)]
 ### Features
 
 - **Navigation:** Navigate through menus using touch gestures and buttons.
@@ -55,5 +57,3 @@ Use the touch gestures or click events to navigate menus and interact with the i
 Play and control music playback using the provided controls.
 Explore different features and enjoy the nostalgic iPod experience!
 
-## Deployment
-Live URL:- [[Hosted Link](https://mdirfan-ul.github.io/ipod-mini-project/)]
